@@ -2,11 +2,11 @@ body{
     text-align: center;
 }
 
-.products{
+.projects{
     display: flex;
 }
 
-.product{
+.project{
     width: 300px;
     border: 1px solid black;
     border-radius: 5px;
@@ -16,6 +16,6 @@ body{
     margin-right: 50px;
 }
 
-.product img{
+.project img{
     width: 300px;
 }
